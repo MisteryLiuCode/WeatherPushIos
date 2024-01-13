@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "是否开启"; ObjectID = "3u1-0e-5es"; */
+"3u1-0e-5es.text" = "是否开启";
+
+/* Class = "UILabel"; text = "选择时间"; ObjectID = "6og-3w-duM"; */
+"6og-3w-duM.text" = "选择时间";
+
+/* Class = "UITableViewSection"; headerTitle = "Room"; ObjectID = "73T-a9-NTr"; */
+"73T-a9-NTr.headerTitle" = "Room";
+
+/* Class = "UITableViewSection"; headerTitle = "People"; ObjectID = "JiF-6b-imj"; */
+"JiF-6b-imj.headerTitle" = "People";
+
+/* Class = "UINavigationItem"; title = "添加接收人"; ObjectID = "O3V-3W-IxJ"; */
+"O3V-3W-IxJ.title" = "添加接收人";
+
+/* Class = "UITextField"; placeholder = "请输入您的昵称"; ObjectID = "O48-Qj-PEW"; */
+"O48-Qj-PEW.placeholder" = "请输入您的昵称";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O95-XV-BYn"; */
+"O95-XV-BYn.text" = "Label";
+
+/* Class = "UILabel"; text = "$ 309"; ObjectID = "RIt-tk-Cad"; */
+"RIt-tk-Cad.text" = "$ 309";
+
+/* Class = "UINavigationItem"; title = "Room Selection"; ObjectID = "SKc-y9-MOn"; */
+"SKc-y9-MOn.title" = "Room Selection";
+
+/* Class = "UITableViewSection"; headerTitle = "接收人信息"; ObjectID = "X1T-in-LtD"; */
+"X1T-in-LtD.headerTitle" = "接收人信息";
+
+/* Class = "UILabel"; text = "FirstName"; ObjectID = "YCb-KZ-7cp"; */
+"YCb-KZ-7cp.text" = "FirstName";
+
+/* Class = "UITextField"; placeholder = "请输入您的电话"; ObjectID = "Z9c-05-szn"; */
+"Z9c-05-szn.placeholder" = "请输入您的电话";
+
+/* Class = "UITextField"; placeholder = "请输入您的邮箱密码"; ObjectID = "ay1-vh-pL0"; */
+"ay1-vh-pL0.placeholder" = "请输入您的邮箱密码";
+
+/* Class = "UILabel"; text = "Children"; ObjectID = "cCM-8I-44G"; */
+"cCM-8I-44G.text" = "Children";
+
+/* Class = "UILabel"; text = "Adults"; ObjectID = "hRI-aq-3Tb"; */
+"hRI-aq-3Tb.text" = "Adults";
+
+/* Class = "UILabel"; text = "31.12.2021"; ObjectID = "hVZ-wn-iMw"; */
+"hVZ-wn-iMw.text" = "31.12.2021";
+
+/* Class = "UILabel"; text = "未选择"; ObjectID = "hdE-ea-2hT"; */
+"hdE-ea-2hT.text" = "未选择";
+
+/* Class = "UILabel"; text = "Penthouse Suite"; ObjectID = "iQ9-5r-x4C"; */
+"iQ9-5r-x4C.text" = "Penthouse Suite";
+
+/* Class = "UITextField"; placeholder = "请输入您的邮箱"; ObjectID = "ktD-lN-l7b"; */
+"ktD-lN-l7b.placeholder" = "请输入您的邮箱";
+
+/* Class = "UITableViewSection"; headerTitle = "接收时间"; ObjectID = "lKH-dJ-I55"; */
+"lKH-dJ-I55.headerTitle" = "接收时间";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "lko-NP-qMQ"; */
+"lko-NP-qMQ.text" = "0";
+
+/* Class = "UILabel"; text = "城市"; ObjectID = "nta-bb-jMm"; */
+"nta-bb-jMm.text" = "城市";
+
+/* Class = "UILabel"; text = "LastName"; ObjectID = "qZI-EA-Di0"; */
+"qZI-EA-Di0.text" = "LastName";
+
+/* Class = "UINavigationItem"; title = "Guests"; ObjectID = "qaD-Qe-AjC"; */
+"qaD-Qe-AjC.title" = "Guests";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "yGT-2n-7Cn"; */
+"yGT-2n-7Cn.text" = "1";

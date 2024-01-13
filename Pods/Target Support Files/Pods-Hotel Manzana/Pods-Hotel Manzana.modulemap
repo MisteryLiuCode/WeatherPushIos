@@ -1,0 +1,6 @@
+framework module Pods_Hotel_Manzana {
+  umbrella header "Pods-Hotel Manzana-umbrella.h"
+
+  export *
+  module * { export * }
+}
